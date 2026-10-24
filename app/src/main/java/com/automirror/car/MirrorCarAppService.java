@@ -3,9 +3,9 @@ package com.automirror.car;
 import android.content.pm.ApplicationInfo;
 
 import androidx.car.app.CarAppService;
-import androidx.car.app.HostValidator;
 import androidx.car.app.Session;
 import androidx.car.app.SessionInfo;
+import androidx.car.app.validation.HostValidator;
 
 import com.automirror.MirrorSession;
 
