@@ -18,7 +18,7 @@ import android.os.Looper;
 import android.os.PowerManager;
 import android.view.Display;
 import android.view.Surface;
-import android.view.SurfaceTexture;
+import android.graphics.SurfaceTexture;
 
 /**
  * Servicio en primer plano: mantiene la captura de la pantalla del teléfono
