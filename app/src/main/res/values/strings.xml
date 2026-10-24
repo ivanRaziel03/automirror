@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoMirror</string>
+    <string name="btn_start">Iniciar espejo</string>
+    <string name="btn_stop">Detener</string>
+    <string name="status_idle">Conecta el cable al coche y abre AutoMirror en la unidad del coche. Pulsa Iniciar para dar permiso de captura.</string>
+    <string name="status_active">Espejo activo — esperando la pantalla del coche…</string>
+</resources>
